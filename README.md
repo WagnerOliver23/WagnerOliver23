@@ -46,7 +46,7 @@
 
 
 <!-- Visitantes na Página -->
-<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="270" align="left"/><img src="https://media.giphy.com/media/qVLeR93GlvsfKPT5pj/giphy.gif" width="170" align="right" />
+<img src="https://media.giphy.com/media/qVLeR93GlvsfKPT5pj/giphy.gif" width="170" align="right" />
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wagneroliver23}/count.svg" /></p> 
