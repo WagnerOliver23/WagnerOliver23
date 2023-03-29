@@ -11,7 +11,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My name is **Wagner Oliveira** <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="250" align="right"/>
+- :credit_card: My name is **Wagner Oliveira** <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="230" align="right"/>
 - :school: I'm studying **Computer Science** at the **<a href="https://www.pucminas.br/destaques/Paginas/default.aspx" target=_blank>Pontifical Catholic University</a>**- Brazil
 - :books: I'm studying Technology at <a href="https://www.escoladnc.com.br/" target=_blank>**Dnc**</a> School too 
 - 🌎: I'm living in **<a href="https://www.minasgerais.com.br/pt/destinos/pocos-de-caldas" target=_blank>Poços de Caldas</a>, Brazil**
@@ -32,9 +32,9 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="230px" height="190px" align="right">
+  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="210px" height="170px" align="right">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=wagneroliver23&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://media.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif" width="230px" height="190px" align="left">
+  <img src="https://media.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif" width="210px" height="170px" align="left">
 </div>
 <div align="center">  
   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=wagneroliver23&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Wagner Oliveira github stats" /> 
@@ -46,7 +46,7 @@
 
 
 <!-- Visitantes na Página -->
-<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="250" align="left"/><img src="https://media.giphy.com/media/qVLeR93GlvsfKPT5pj/giphy.gif" width="150" align="right" />
+<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="270" align="left"/><img src="https://media.giphy.com/media/qVLeR93GlvsfKPT5pj/giphy.gif" width="170" align="right" />
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{wagneroliver23}/count.svg" /></p> 
