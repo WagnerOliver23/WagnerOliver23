@@ -32,9 +32,7 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="210px" height="170px" align="right">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=wagneroliver23&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://media.giphy.com/media/1Be4g2yeiJ1QfqaKvz/giphy.gif" width="210px" height="170px" align="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=wagneroliver23&theme=algolia&background=0d1117&hide_border=true" /> 
 </div>
 <div align="center">  
   <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=wagneroliver23&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Wagner Oliveira github stats" /> 
@@ -44,8 +42,8 @@
 <!-- Gráfico Contribuições --> 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wagneroliver23&bg_color=0d1117&color=87CEFA&line=FF0000&point=00FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <!-- Visitantes na Página -->
+<img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="240" align="left" />
 <img src="https://media.giphy.com/media/qVLeR93GlvsfKPT5pj/giphy.gif" width="170" align="right" />
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
@@ -67,6 +65,8 @@
 
 [![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5535998723379)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagneroliveira9819@gmail.com?subject=Questions)
+
+
 
 
 
